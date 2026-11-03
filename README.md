@@ -1,4 +1,4 @@
-# calcbright-com
+# CalcBright
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,119 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-calcbright-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://calcbright.com/
+CalcBright provides free online calculators and converters for Gulf gratuity, salary, GOSI, Zakat, home loans, and more. Founded in 2026, it aggregates official data sources to deliver accurate, user‑friendly tools for individuals and businesses across the Middle East. The platform emphasizes transparency, privacy, and compliance with regional regulations, offering a suite of financial, tax, and labor‑law calculators accessible without registration.
+
+**Areas:** Finance · Calculator · MiddleEast · Tax · Salary
+
+## CalcBright on APIs.io
+
+Everything profiled for CalcBright is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/calcbright-com/](https://apis.io/providers/calcbright-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (6)
+
+- [CalcBright Conversion API](https://apis.io/apis/calcbright-com/calcbright-com-conversion-api/) — The Conversion API from CalcBright — 11 operation(s) for conversion.
+- [CalcBright Date Time API](https://apis.io/apis/calcbright-com/calcbright-com-datetime-api/) — The DateTime API from CalcBright — 14 operation(s) for datetime.
+- [CalcBright Everyday API](https://apis.io/apis/calcbright-com/calcbright-com-everyday-api/) — The Everyday API from CalcBright — 15 operation(s) for everyday.
+- [CalcBright Finance API](https://apis.io/apis/calcbright-com/calcbright-com-finance-api/) — The Finance API from CalcBright — 74 operation(s) for finance.
+- [CalcBright Health API](https://apis.io/apis/calcbright-com/calcbright-com-health-api/) — The Health API from CalcBright — 20 operation(s) for health.
+- [CalcBright Math API](https://apis.io/apis/calcbright-com/calcbright-com-math-api/) — The Math API from CalcBright — 33 operation(s) for math.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Calcbright Com Agentic Access](https://apis.io/agentic-access/calcbright-com/calcbright-com-agentic-access/)
+
+#### JSON Schema (1)
+
+The data models the API reads and writes.
+
+- [CalcOutput](https://apis.io/schemas/calcbright-com/calcbright-com-calc-output/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Calcbright Com Context](https://apis.io/jsonld/calcbright-com/calcbright-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [CalcBright API Rules](https://apis.io/rules/calcbright-com/calcbright-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Calcbright Com Domain Security](https://apis.io/security/calcbright-com/calcbright-com-domain-security/)
+- [Calcbright Com Vulnerability Disclosure](https://apis.io/security/calcbright-com/calcbright-com-vulnerability-disclosure/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://calcbright.com/)
+- [API reference](https://calcbright.com/developers)
+- [Blog](https://calcbright.com/blog)
+- [Terms of service](https://calcbright.com/terms)
+- [Privacy policy](https://calcbright.com/privacy)
+
+## API Evangelist rating
+
+**Kin Score 39.1** — thin · rubric 0.25.0 · scored 2026-11-03
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 51.2 |
+| Contract governance | 79.1 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 16.0 |
+| Access clarity | 21.1 |
+
+**Agent readiness 28.0** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 24.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/calcbright-com/](https://apis.io/providers/calcbright-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for CalcBright: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/calcbright-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
